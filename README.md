@@ -1,24 +1,24 @@
-# 📊 Appol - Análisis de Utilidad y Márgenes
+# 📊 Appol - Profit and Margin Analysis
 
-## 📝 Contexto
-En este proyecto se desarrolló un dashboard interactivo en Power BI para analizar la **utilidad** y los **márgenes de ganancia** de la empresa Appol durante el periodo 2017-2019.  
-El objetivo principal fue entender el comportamiento de las utilidades a través de diferentes dimensiones geográficas y temporales, para identificar oportunidades de mejora y optimización de resultados.
+## 📝 Context
+In this project, an interactive dashboard was developed in Power BI to analyze the **profit** and **profit margins** of the company Appol during the period 2017-2019.  
+The main objective was to understand the behavior of profits across different geographic and temporal dimensions to identify opportunities for improvement and optimization of results.
 
-## 🛠️ Herramientas Utilizadas
-- **Power BI**: Creación de dashboards interactivos.
-- **Bases de Datos de Ventas y Finanzas**: Información sobre utilidades y márgenes por país, continente, año y trimestre.
+## 🛠️ Tools Used
+- **Power BI**: Creation of interactive dashboards.
+- **Sales and Finance Databases**: Information on profits and margins by country, continent, year, and quarter.
 
-## 📈 Análisis de Resultados
-- Visualización de la utilidad total y margen promedio global.
-- Análisis de métricas clave:
-  - Utilidad y margen por continente.
-  - Utilidad y margen por país.
-  - Comparativo de utilidad y margen por año.
-  - Tendencias de utilidad por trimestre y continente.
-- Uso de mapas y gráficos dinámicos para una mejor representación geográfica de los resultados.
+## 📈 Results Analysis
+- Visualization of total profit and average global margin.
+- Analysis of key metrics:
+  - Profit and margin by continent.
+  - Profit and margin by country.
+  - Profit and margin comparison by year.
+  - Profit trends by quarter and continent.
+- Use of maps and dynamic charts for better geographic representation of the results.
 
-## 📋 Conclusiones
-- América representa el mayor porcentaje de utilidades, seguido por Asia y Europa.
-- Estados Unidos, China y Alemania son los países con mayores contribuciones a la utilidad total.
-- Se observan tendencias de crecimiento estables en América y Asia, mientras que Europa muestra una recuperación progresiva en los últimos trimestres.
-- El dashboard permite identificar regiones con bajo margen de utilidad, ofreciendo oportunidades de análisis más detallado para optimizar las operaciones.
+## 📋 Conclusions
+- America represents the largest percentage of profits, followed by Asia and Europe.
+- The United States, China, and Germany are the countries with the highest contributions to total profit.
+- Stable growth trends are observed in America and Asia, while Europe shows a progressive recovery in the last quarters.
+- The dashboard allows identifying regions with low profit margins, offering opportunities for more detailed analysis to optimize operations.
